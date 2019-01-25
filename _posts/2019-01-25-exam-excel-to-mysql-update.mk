@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "exam info process"
+date:   2019-01-25 10:53:36 +0800
+categories: python scripts
+---
 `import pymysql
 import re
 
